@@ -39,5 +39,5 @@ char *end(char *s)
 
 int is_palindrome(char *s)
 {
-		return (recurse(s, end(s) - 1));
+	return (recurse(s, end(s) - 1));
 }
