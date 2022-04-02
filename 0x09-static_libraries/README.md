@@ -1,1 +1,1 @@
-Learning about static libraries.
+Letslearn the static variables.
